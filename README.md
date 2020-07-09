@@ -23,4 +23,4 @@ Ce projet étant un exemple typique d'exploitation de processus de NLP, plusieur
 
 Faute de temps pour réaliser ce projet, les techniques de word embeddings n'ont pas été utilisées pour ce projet. 
 
-Ce projet ayant été réalisé avant tout comme un projet devant être évalué d'un point de vu scolaire, un rapport a été écrit, que vous pouvez retrouver [ici](). 
+Ce projet ayant été réalisé avant tout comme un projet devant être évalué d'un point de vu scolaire, un [rapport](https://github.com/adrihans/Projet_Grand_Debat/blob/master/Rapport_final_HANS_Adrien.pdf) a été écrit, que vous pouvez retrouver [ici](https://github.com/adrihans/Projet_Grand_Debat/blob/master/Rapport_final_HANS_Adrien.pdf). 
